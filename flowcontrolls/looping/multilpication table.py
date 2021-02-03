@@ -1,5 +1,6 @@
 num=int(input("enter the num"))
+limit=int(input("enter the limit"))
 i=1
-while(i<=10):
-    print(num,"*",i,"=",i*num)
+while(i<=limit):
+    print(i,"*",num,"=",i*num)
     i+=1
