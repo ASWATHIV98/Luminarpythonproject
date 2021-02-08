@@ -17,6 +17,6 @@ for i in range(2,n):
     else:
         flg=0
 if(flg==0):
-    print("prine")
+    print("prime")
 else:
     print("not prime")
