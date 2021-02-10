@@ -8,5 +8,10 @@ for num in arr:
         flg=1
         break
 else:
-    pass
+    flg==0
+
+if(flg==0):
+    print("not")
+else:
+    print("find")
 
